@@ -18,7 +18,3 @@ Ensure you have the following installed:
 - [Flutter SDK](https://docs.flutter.dev/get-started/install)
 - [Dart](https://dart.dev/get-dart)
 
-### Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/loadserv_app.git
