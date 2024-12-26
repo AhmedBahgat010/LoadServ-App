@@ -12,17 +12,6 @@
 
 ---
 
-## Screenshots 📸
-### Home Page
-![Home Page](![Uploading Screenshot_1735225973.png…]()
-)
-
-### Cart Page
-![Cart Page](![Uploading Screenshot_1735226004.png…]()
-)
-
----
-
 ## Getting Started 🛠️
 ### Prerequisites
 Ensure you have the following installed:
