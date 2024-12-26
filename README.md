@@ -1,16 +1,35 @@
-# loadserv_app
+# LoadServ App 🚀
 
-A new Flutter project.
+**LoadServ** is a Flutter-based application designed to streamline service delivery and enhance user experience. 
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features ✨
+- Add products (meals) to a shopping cart with customizable options.
+- Dynamic price calculation based on weight, salads, and extras.
+- Efficient cart management (add, edit, and delete items).
+- User-friendly interface following provided Figma design.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots 📸
+### Home Page
+![Home Page](![Uploading Screenshot_1735225973.png…]()
+)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Cart Page
+![Cart Page](![Uploading Screenshot_1735226004.png…]()
+)
+
+---
+
+## Getting Started 🛠️
+### Prerequisites
+Ensure you have the following installed:
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [Dart](https://dart.dev/get-dart)
+
+### Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/loadserv_app.git
